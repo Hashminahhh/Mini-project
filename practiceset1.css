@@ -1,0 +1,21 @@
+.blue-box{
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+
+
+.heading{
+    color: red;
+}
+.inexternal{
+    background-color: green;
+}
+.green-btn {
+  background-color: green;
+  color: white; /* optional for text contrast */
+}
+
+ 
+
