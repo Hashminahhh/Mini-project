@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    transition: 0.3s;
+}
+
+
+.dark {
+    background-color: #121212;
+    color: white;
+}
+
+
+#modeBtn {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+#topBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    display: none;
+    cursor: pointer;
+}
